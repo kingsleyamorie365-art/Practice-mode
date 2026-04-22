@@ -1,1 +1,3 @@
-Hello Maxi_kodX!
+#!/bin/bash
+
+echo "Hello, Maxi_kodX"
